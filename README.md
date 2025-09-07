@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hola, soy Irene 👋
 
-<!--
-**irenesanchezh/irenesanchezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy graduada en Física por la UCM, especializada en Astrofísica y Física Fundamental y recién titulada en el Máster de Física Biomédica.  
+Me interesa especialmente el análisis de datos complejos, la simulación y la programación científica.  
 
-Here are some ideas to get you started:
+## Tecnologías
+- Python (pandas, numpy, matplotlib, astropy)
+- Matlab
+- Jupyter Notebook
+- Excel avanzado
+- LaTeX
+- MacOS
+- Linux (báico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
